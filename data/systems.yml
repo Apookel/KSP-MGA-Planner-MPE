@@ -21,6 +21,9 @@
 - name: KSRSS Reborn
   folderName: ksrss
 
+- name: OPM + Minor Planets Expansion
+  folderName: mpe-opm
+
 # Template:
 # - name: New Solar System
 #   folderName: new-solar-system
