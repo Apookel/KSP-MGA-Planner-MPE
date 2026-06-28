@@ -846,3 +846,21 @@
   epoch:               6
   orbiting:            45
   color:               0xcfc9a8
+
+  - !!map
+  id:                  47
+  name:                Yunxiao
+  radius:              42438000
+  mass:                12647130000000000000000000000
+  stdGravParam:        844111244000000000
+  soi:                 20000000000000
+  orbit:
+    semiMajorAxis:     227100000000000
+    eccentricity:      0
+    inclination:       68.5915142297745
+    argOfPeriapsis:    263.314282894135
+    ascNodeLongitude:  0
+  meanAnomaly0:        4.90672929102726
+  epoch:               0
+  orbiting:            0
+  color:               0xcfc9a8
