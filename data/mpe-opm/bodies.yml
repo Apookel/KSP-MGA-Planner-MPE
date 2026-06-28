@@ -1,7 +1,7 @@
 - !!map
   id:                  0
   name:                Sun
-  radius:              261600000
+  radius:              261600001
   atmosphereAlt:       600000
   mass:                1.7565459e+28
   stdGravParam:        1172332800000000000
