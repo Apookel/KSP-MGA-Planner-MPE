@@ -847,7 +847,7 @@
   orbiting:            45
   color:               0xcfc9a8
 
-  - !!map
+- !!map
   id:                  47
   name:                Yunxiao
   radius:              42438000
